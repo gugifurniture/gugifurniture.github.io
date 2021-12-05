@@ -7,3 +7,12 @@ body {
     background-color: #fdfdfd;
     -webkit-text-size-adjust: 100%;
 }
+
+
+.site-header {
+    border-bottom: 1px solid #e8e8e8;
+    min-height: 56px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+}
