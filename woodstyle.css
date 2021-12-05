@@ -36,17 +36,17 @@ body {
     height: 28px;
 }
         
-        .img {
+        img {
     max-width: 100%;
     vertical-align: middle;
     height: auto;
 }
         
-        .div {
+        div {
     display: block;
 }
    
-                .a {
+                a {
     color: #2a7ae2;
     text-decoration: none;
 }
@@ -115,14 +115,14 @@ body {
     margin-left: 20px;
 }
     
-    .img {
+    img {
     max-width: 100%;
     vertical-align: middle;
     height: auto;
 }
 
     
-.p {
+p {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
