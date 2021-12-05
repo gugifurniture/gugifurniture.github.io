@@ -2,7 +2,7 @@
 #logo1 {text-align: center; color: #A67E79; margin-left: 10px; margin-right: 10px; margin-top: 10px;}
 
 #topMenu {
-	height: 30px; width: 300px; margin-left: 1150px;} 
+	height: 30px; width: 300px; margin-left: 1000px;} 
 #topMenu ul li {
 	list-style: none; float: left; line-height: 30px; vertical-align: middle; text-align: center;}
 #topMenu .menuLink {
@@ -11,12 +11,22 @@
 	color: #b4524b;}
 
 
-#내용 {background-color: #a6cced; height: 600px; width: 1500px;}
+#wrapper {background-color: #FFFEF2; margin-left: 270px; margin-right: 270px; height: 450px; width: 1000px;}
 
 
-#imagemain {
-	text-align: center; }
+#imagemain {margin-top: 30px; margin-left: 80px; text-align: left; height: 60px; width: 400px;}
+#textmain{ text-align: center; margin-left: 500px; margin-right: 150px; color: #FFB954}
 
+
+
+#footer-wrapper {background-color: sky; margin-left: 270px; margin-right: 270px; height: 70px; width: 1000px; font-family: "Trebuchet MS", Dotum, Arial;}
+#footer-co1-wrapper {color: pink; height: 1px; width: 330px; size: 100;  font-size: 15px;  
+margin-right: 500px;}
+#font1 {font-size: 20px;}
+#email-link{vertical-align: top; text-decoration:none; color: pink;}
+
+#footer-co2-wrapper {color: pink; margin-left: 500px; margin-top: 40px; height: 100px; width: 330px; font-size: 15px; }
+#you-link{vertical-align: top; text-decoration:none; color: pink;}
 
 #clock {
 	display : inline-block;
@@ -24,5 +34,3 @@
 	border : 1px solid gray;
 	background-color : aliceblue;
 }
-
-body{font-family: 궁서, "times new foman";}
