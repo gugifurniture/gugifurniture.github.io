@@ -8,7 +8,7 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-#site-title {text-align: center; color: #A67E79; margin-left: 10px; margin-right: 10px; margin-top: 10px;}
+.site-title {text-align: center; color: #A67E79; margin-left: 10px; margin-right: 10px; margin-top: 10px;}
 
 #topMenu {
 	height: 30px; width: 1600px; background-color: black;} 
