@@ -31,6 +31,10 @@ body {
     line-height: 56px;
     letter-spacing: -1px;
     float: left;
+      
+        div {
+    display: block;
+}
         
 .site-nav {
     z-index: 10;
