@@ -31,9 +31,32 @@ body {
     line-height: 56px;
     letter-spacing: -1px;
     float: left;
-      
+ 
+        .site-title img {
+    height: 28px;
+}
+        
+        img {
+    max-width: 100%;
+    vertical-align: middle;
+    height: auto;
+}
+        
         div {
     display: block;
+}
+   
+                a {
+    color: #2a7ae2;
+    text-decoration: none;
+}
+  .site-nav {
+    position: absolute;
+    top: 12px;
+    right: 24px;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    text-align: right;
 }
         
 .site-nav {
@@ -41,16 +64,32 @@ body {
     float: right;
     line-height: 56px;
     
+    .site-nav .menu-icon {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 4px;
+    text-align: center;
+    background: #fff url(/bay/assets/img/menu.png) 6px 4px no-repeat;
+    background-size: 26px 26px;
+}
+    
+    .site-nav .menu {
+    clear: both;
+    display: none;
+    background-color: #ffffff;
+    min-width: 10em;
+    padding-bottom: 5px;
+}
+    
     .site-nav .page-link {
     color: #111;
     line-height: 1.7;
 }
     
-a {
-    color: #2a7ae2;
-    text-decoration: none;
-}
- 
+
     
     
     
