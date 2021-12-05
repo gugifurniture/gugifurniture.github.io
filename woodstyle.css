@@ -9,12 +9,3 @@ body {
 }
 
 .site-title {text-align: center; color: #A67E79; margin-left: 10px; margin-right: 10px; margin-top: 10px;}
-
-#topMenu {
-	height: 30px; width: 1600px; background-color: black;} 
-#topMenu ul li {
-	list-style: none; float: left; line-height: 30px; vertical-align: middle; text-align: center;}
-#topMenu .menuLink {
-	text-decoration:none; color: pink; display: block; width: 280px; font-size: 15px; font-weight: bold; font-family: "Trebuchet MS", Dotum, Arial;} 
-#topMenu .menuLink:hover{
-	color: #b4524b;}
