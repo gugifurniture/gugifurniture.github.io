@@ -1,6 +1,6 @@
 	function change1(){
 	var p=document.getElementById("firstP");
-	p.innerHTML="나의 강아지";
+	p.innerHTML="크리스마스";
 }
 
 function startClock() {
