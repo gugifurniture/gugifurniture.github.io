@@ -13,9 +13,3 @@ function timeout(obj) {
 	obj.innerHTML = current.toLocaleTimeString()
 	setTimeout("timeout(clock)", 1000); // 1초 후 timeout() 호출
 }
-
-
-	function over1(){
-	var p=document.getElementById("p2");
-	p.innerHTML="크리스마스트리짜잔";
-}
